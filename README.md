@@ -1,4 +1,4 @@
-# python_task_1 is related to some basic task who helped to understand basic knowledge of python, which is done by me.
+# python_task_1 is related to some basic concept who helped to understand basic knowledge of python, which is done by me.
 
 --------------------------------------------------------------------------------------------------
 1. Provide a program for the calculator from terminal.
